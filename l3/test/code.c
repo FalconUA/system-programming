@@ -3,11 +3,10 @@
 #include "string.h"
 #include "stdio.h"
 
-/* lol
- */
+/* WTF */
 
 int main(){
-	int a = 1 + 2;
-	// ppc
+	int a = 1 + 2*M_PI;
+	// this is a comment
 	return 0;
 }
